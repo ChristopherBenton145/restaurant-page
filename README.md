@@ -42,3 +42,5 @@
    ```js
    npm run start
    ```
+
+<!-- What are you doing looking through my code? Get in contact with me already. -->
